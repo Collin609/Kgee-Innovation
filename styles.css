@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px;
+    color: #000000;
+    background: url('C:\\Users\\reats\\OneDrive\\Desktop\\website\\images\\IMG-20231120-WA0032.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero h1 {
+    font-size: 5em;
+    margin: 0;
+    font-family: cursive;
+}
+
+.main-content,
+.about,
+.products,
+.contact-form {
+    padding: 10px;
+    text-align: center;
+    color: #332c2c;
+    background: url('C:\\Users\\reats\\OneDrive\\Desktop\\website\\images\\IMG-20231120-WA0032.jpg') no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+.about-image img {
+    max-width: 40%; /* Set the image size to 40% of the container width */
+    border-radius: 10px; /* Optional: Adds a border-radius to the image */
+}
+
+.product-category {
+    margin-top: 30px;
+    padding: 3px;
+    
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.product-category h3 {
+    font-size: 5em;
+}
+
+.message-form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.message-form label {
+    margin-bottom: 10px;
+}
+
+.message-form input,
+.message-form textarea,
+.message-form file {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.message-form button {
+    background-color: #6c9b6e;
+    color: #aa9595;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.visual img {
+    max-width: 40%; /* Set the image size to 40% of the container width */
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #241e1e;
+    background: url('C:\\Users\\reats\\OneDrive\\Desktop\\website\\images\\IMG-20231120-WA0032.jpg') no-repeat center center fixed;
+    background-size: cover;
+    
+}
+ 
+.visual img {
+    max-width: 40%; /* Set the image size to 40% of the container width */
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #241e1e;
+    background: url('C:\\Users\\reats\\OneDrive\\Desktop\\website\\images\\IMG-20231120-WA0032.jpg') no-repeat center center fixed;
+    background-size: cover;
+background: url('C:\Users\reats\Downloads\hair therapy.jpg');
+
+}
